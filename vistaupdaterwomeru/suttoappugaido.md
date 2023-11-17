@@ -10,7 +10,7 @@ VistaUpdaterを始めるための手順がスタートアップガイドです�
 
 Windows Vista上でダウンロードして実行します。
 
-1. \[http://vistaupdater.net]\(http://vistaupdater.net)にアクセスします。
+1. [http://vistaupdater.net](http://vistaupdater.net)にアクセスします。
 2. 画面下部にあるダウンロードボタンをクリックします。
 3. ダウンロードが完了したら実行します。
 4. 更新を開始をクリックします。
@@ -23,7 +23,7 @@ Windows Vista上でダウンロードして実行します。
 
 ### 別のデバイスで実行する処理
 
-1. \[http://vistaupdater.net]\(http://vistaupdater.net)にアクセスします。
+1. [http://vistaupdater.net](http://vistaupdater.net)にアクセスします。
 2. 画面下部にあるダウンロードボタンをクリックします。
 3. ダウンロードが完了したらVista上で実行できる場所へコピーします。
 
