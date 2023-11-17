@@ -1,4 +1,3 @@
 # Table of contents
 
-* [VistaUpdaterについて](README.md)
-* [スタートアップガイド](suttoappugaido.md)
+* [エラーが発生した場合](README.md)
